@@ -1,0 +1,76 @@
+body {
+            
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            vertical-align: middle;
+            height: 100px;
+            
+        }
+
+        nav {
+            background-color: gray;
+            color: white;
+            height: 25px;
+            text-align: center;
+            text-decoration: none;
+            
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .container {
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            margin: 0px auto ;
+            width: 800px;
+            height: 300px;
+            vertical-align: middle;
+           
+        }
+
+        .box {
+            background-color: cornflowerblue;
+            height: 50px;
+            width: 700px;
+            margin: 10px auto;
+            color: white;
+            text-align: center;
+            vertical-align: middle;
+            
+        }
+
+        .red-box {
+            background-color: red;
+            
+        }
+
+        .green-box {
+            background-color: green;
+            
+        }
+
+        .blue-box {
+            background-color: blue;
+            
+        }
+		
+		
+		#rollover ul li {
+	
+}
+
+
+#rollover ul li:hover {
+	
+
+}
+		
+		
+		
